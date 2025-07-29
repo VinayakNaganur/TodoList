@@ -9,6 +9,7 @@ public class TodoappApplication {
 	public static void main(String[] args) {
 		System.out.println("hello world \n \n ");
 		System.out.println("vinayak naganur");
+		System.out.println("how are you ");
 		SpringApplication.run(TodoappApplication.class, args);
 	}
 
